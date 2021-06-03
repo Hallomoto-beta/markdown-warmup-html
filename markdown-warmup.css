@@ -1,0 +1,46 @@
+body {
+	background-color: linen;
+	background-image: linear-gradient(to bottom, #3f87a6, #ebf8e1, #f69d3c);
+	background-size: cover;
+	max-width: 50%;
+	margin: auto;
+}
+p {
+	color: #293133;
+	font-family: serif;
+	margin: auto;
+	front-size : 100%;
+	text-indent: 10px;
+}
+
+a:link, a:visited {
+  background-color: skyblue;
+  color: black;
+  border: 2px solid darkblue;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: orange;
+  color: blue;
+}
+blockquote {
+	max-width: 80%;
+	margin: auto;
+	font-size: 160%;
+	background-color: #c0c0c0;
+	border-left: 5px solid;
+	border-color: orange;
+	padding: 10px 10px 10px 10px;
+/*top-right-bottom-left*/
+}
+
+h1{
+	color: orange;
+}
+h2{
+	color: orange;
+}
